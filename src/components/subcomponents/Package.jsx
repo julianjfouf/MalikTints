@@ -47,7 +47,7 @@ const Package = ({ title, name, desc, popular, price, image }) => {
           </div>
         ) : null}
       </div>
-      <div className="bg-white text-black lg:hidden flex flex-col relative p-4 w-full max-w-[1440px] text-2xl">
+      <div className="bg-white text-black lg:hidden flex flex-col relative p-9 w-full max-w-[1440px] text-2xl">
         <div
           className={`flex flex-col items-center ${title.className} text-5xl`}
         >
