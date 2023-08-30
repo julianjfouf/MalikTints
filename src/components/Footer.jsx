@@ -9,7 +9,7 @@ const Footer = ({ title }) => {
     <div className="p-12 bg-[#0b0b0b] -translate-y-[1px] relative flex justify-between text-2xl text-white xl:flex-row flex-col gap-12">
         <div className="absolute bg-[#0b0b0b] bottom-0 left-0 w-full h-1"></div>
       <div className="flex flex-col items-start gap-4">
-        <div className="flex md:flex-row flex-col gap-4 items-center">
+        <div className="flex md:flex-row flex-col gap-4 md:items-center">
           <h1 className={`${title.className} font-bold text-3xl`}>
             MALIK'S TINTS
           </h1>
