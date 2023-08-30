@@ -65,10 +65,10 @@ const Package = ({ title, name, desc, popular, price, image }) => {
             <div className="flex">
               <Button
                 title={title}
-                px="px-12"
-                py="py-6"
+                px="px-6"
+                py="py-3"
                 white={false}
-                font="text-3xl"
+                font="text-2xl"
               />
             </div>
           </div>
