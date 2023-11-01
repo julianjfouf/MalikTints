@@ -1,7 +1,7 @@
 <i>Made with Next.js, Tailwind CSS, and Figma</i>
 <div>
   <h2>Malik's Tints</h2>
-  <a href="https://malikstints.com/" target="_blank">Live Version</a>
+  <a target="_blank" href="https://malikstints.com/">Live Version</a>
 </div>
 <br/>
 <p>This is a website I designed and developed for my friend, Malik, so that he would be better able to showcase his window tinting business to customers and to ultimately help him secure more customers.</p>
