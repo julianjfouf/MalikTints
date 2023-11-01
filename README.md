@@ -14,4 +14,4 @@
   <li>Booking: a step by step guide to booking in the most efficient manner for both the customer and the producer</li>
   <li>Footer: collection of quick links and miscellaneous information</li>
 </ol>
-<img src="https://github.com/julianjfouf/MalikTints/assets/108158376/1902485b-119f-4368-a4c9-17fe311b0e3c"/>
+<img src="https://github.com/julianjfouf/MalikTints/assets/108158376/b6d49e2d-2c62-4c67-98a8-d919092e8d38"/>
